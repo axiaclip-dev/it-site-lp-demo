@@ -18,7 +18,7 @@
 
 #### 左: PC 版 | 右: スマホ版
 
-![デモサイトイメージ](./assets/demo/it-site-lp-demo.png)
+![デモサイトイメージ](./images/demo/it-site-lp-demo.png)
 
 ## 機能
 
